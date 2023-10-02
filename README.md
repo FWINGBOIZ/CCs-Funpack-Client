@@ -13,13 +13,14 @@
 | AppleSkin | https://legacy.curseforge.com/minecraft/mc-mods/appleskin | N |
 | Aquaculture 2 | https://legacy.curseforge.com/minecraft/mc-mods/aquaculture | N |
 | Architectury API | https://legacy.curseforge.com/minecraft/mc-mods/architectury-api | N |
-| Ars Armiger | https://legacy.curseforge.com/minecraft/mc-mods/ars-armiger | 
+| Ars Armiger | https://legacy.curseforge.com/minecraft/mc-mods/ars-armiger | N |
 | Ars Creo | https://legacy.curseforge.com/minecraft/mc-mods/ars-creo | N |
 | Ars Elemental | https://legacy.curseforge.com/minecraft/mc-mods/ars-elemental | N |
 | Ars Nouveau | https://legacy.curseforge.com/minecraft/mc-mods/ars-nouveau | N | N |
 | Async Locator | https://legacy.curseforge.com/minecraft/mc-mods/async-locator | N |
 | ATO - All the Ores | https://legacy.curseforge.com/minecraft/mc-mods/ato | N |
 | AttributeFix | https://legacy.curseforge.com/minecraft/mc-mods/attributefix | N |
+| AutoRegLib | https://legacy.curseforge.com/minecraft/mc-mods/autoreglib | N |
 | Bad Wither No Cookie - Reloaded | https://legacy.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded | Y |
 | Balm | https://legacy.curseforge.com/minecraft/mc-mods/balm | N |
 | Better Advancements | https://legacy.curseforge.com/minecraft/mc-mods/better-advancements | N |
@@ -57,7 +58,7 @@
 | Domum Ornamentum | https://legacy.curseforge.com/minecraft/mc-mods/domum-ornamentum | N |
 | Eccentric Tome | https://legacy.curseforge.com/minecraft/mc-mods/eccentric-tome | N | 
 | EdivadLib | https://legacy.curseforge.com/minecraft/mc-mods/edivadlib | N |
-| Elytra Slot | https://legacy.curseforge.com/minecraft/mc-mods/elytra-slot | 
+| Elytra Slot | https://legacy.curseforge.com/minecraft/mc-mods/elytra-slot | N |
 | EMI | https://legacy.curseforge.com/minecraft/mc-mods/emi | N |
 | Entity Collision FPS Fix | https://legacy.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix | Y |
 | Entity Culling | https://legacy.curseforge.com/minecraft/mc-mods/entityculling | Y |
@@ -86,6 +87,7 @@
 | FTB XMod Compat | https://legacy.curseforge.com/minecraft/mc-mods/ftb-xmod-compat | N |
 | Fuel Goes Here | https://legacy.curseforge.com/minecraft/mc-mods/fuelgoeshere | N |
 | Functional Storage | https://legacy.curseforge.com/minecraft/mc-mods/functional-storage | N |
+| Fusion (Connected Textures) | https://legacy.curseforge.com/minecraft/mc-mods/fusion-connected-textures | N |
 | Game Menu Mod Option | https://legacy.curseforge.com/minecraft/mc-mods/gamemenumodoption | Y |
 | GeckoLib | https://legacy.curseforge.com/minecraft/mc-mods/geckolib | N |
 | Get It Together, Drops! | https://legacy.curseforge.com/minecraft/mc-mods/get-it-together-drops | N |
