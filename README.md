@@ -143,7 +143,7 @@
 | Placebo | https://legacy.curseforge.com/minecraft/mc-mods/placebo | N |
 | Platforms | https://legacy.curseforge.com/minecraft/mc-mods/platforms | N |
 | PneumaticCraft: Repressurized | https://legacy.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized | N |
-| Polymorph | https://legacy.curseforge.com/minecraft/mc-mods/polymorph | Y? |
+| Polymorph | https://legacy.curseforge.com/minecraft/mc-mods/polymorph | N |
 | Powah! (Rearchitected) | https://legacy.curseforge.com/minecraft/mc-mods/powah-rearchitected | N |
 | ProjectE | https://legacy.curseforge.com/minecraft/mc-mods/projecte | N |
 | Quark | https://legacy.curseforge.com/minecraft/mc-mods/quark | N |
