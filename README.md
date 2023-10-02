@@ -32,6 +32,7 @@
 | Caelus API | https://legacy.curseforge.com/minecraft/mc-mods/caelus | N |
 | CC: Tweaked | https://legacy.curseforge.com/minecraft/mc-mods/cc-tweaked | N |
 | Charging Gadgets | https://legacy.curseforge.com/minecraft/mc-mods/charging-gadgets | N |
+| Chef's Delight | https://legacy.curseforge.com/minecraft/mc-mods/chefs-delight-forge | N | 
 | Chipped | https://legacy.curseforge.com/minecraft/mc-mods/chipped | N |
 | ChoiceTheorem's Overhauled Village | https://legacy.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village | N |
 | Cloth Config API | https://legacy.curseforge.com/minecraft/mc-mods/cloth-config | N | 
@@ -186,10 +187,12 @@
 | Time in a bottle standalone | https://legacy.curseforge.com/minecraft/mc-mods/time-in-a-bottle-standalone | N |
 | Titanium | https://legacy.curseforge.com/minecraft/mc-mods/titanium | N |
 | Trash Cans | https://legacy.curseforge.com/minecraft/mc-mods/trash-cans | N |
+| Undead Unleashed | https://legacy.curseforge.com/minecraft/mc-mods/undead-unleashed | N |
 | TrashSlot | https://legacy.curseforge.com/minecraft/mc-mods/trashslot | N |
 | Universal Grid | https://legacy.curseforge.com/minecraft/mc-mods/universal-grid | N |
 | Valhelsia Core | https://legacy.curseforge.com/minecraft/mc-mods/valhelsia-core | N |
 | Waystones | https://legacy.curseforge.com/minecraft/mc-mods/waystones | N |
+| When Dungeons Arise | https://legacy.curseforge.com/minecraft/mc-mods/when-dungeons-arise | N |
 | YUNG's API | https://legacy.curseforge.com/minecraft/mc-mods/yungs-api | N |
 | YUNG's Better Desert Temples | https://legacy.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples | N |
 | YUNG's Better Dungeons | https://legacy.curseforge.com/minecraft/mc-mods/yungs-better-dungeons | N |
