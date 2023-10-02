@@ -10,6 +10,7 @@
 | AllTheCompressed | https://legacy.curseforge.com/minecraft/mc-mods/allthecompressed | N | 
 | Almost Unified | https://legacy.curseforge.com/minecraft/mc-mods/almost-unified | N |
 | AntiGhost | https://legacy.curseforge.com/minecraft/mc-mods/antighost | N |
+| Apotheosis | https://legacy.curseforge.com/minecraft/mc-mods/apotheosis | N |
 | AppleSkin | https://legacy.curseforge.com/minecraft/mc-mods/appleskin | N |
 | Aquaculture 2 | https://legacy.curseforge.com/minecraft/mc-mods/aquaculture | N |
 | Architectury API | https://legacy.curseforge.com/minecraft/mc-mods/architectury-api | N |
@@ -26,6 +27,7 @@
 | Better Advancements | https://legacy.curseforge.com/minecraft/mc-mods/better-advancements | N |
 | BetterF3 | https://legacy.curseforge.com/minecraft/mc-mods/betterf3 | Y |
 | BlockUI | https://legacy.curseforge.com/minecraft/mc-mods/blockui | N |
+| Bookshelf | https://legacy.curseforge.com/minecraft/mc-mods/bookshelf | N |
 | Botarium | https://legacy.curseforge.com/minecraft/mc-mods/botarium | N |
 | Building Gadgets | https://legacy.curseforge.com/minecraft/mc-mods/building-gadgets | N |
 | Cable Tiers | https://legacy.curseforge.com/minecraft/mc-mods/cable-tiers | N |
@@ -61,6 +63,7 @@
 | EdivadLib | https://legacy.curseforge.com/minecraft/mc-mods/edivadlib | N |
 | Elytra Slot | https://legacy.curseforge.com/minecraft/mc-mods/elytra-slot | N |
 | EMI | https://legacy.curseforge.com/minecraft/mc-mods/emi | N |
+| Enchantment Descriptions | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions | Y |
 | Entity Collision FPS Fix | https://legacy.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix | Y |
 | Entity Culling | https://legacy.curseforge.com/minecraft/mc-mods/entityculling | Y |
 | Extra Disks | https://legacy.curseforge.com/minecraft/mc-mods/extra-disks | N |
@@ -97,7 +100,7 @@
 | Harvest with ease | https://legacy.curseforge.com/minecraft/mc-mods/harvest-with-ease | N |
 | Health Overlay | https://legacy.curseforge.com/minecraft/mc-mods/health-overlay | Y |
 | Inventory Essentials | https://legacy.curseforge.com/minecraft/mc-mods/inventory-essentials | Y |
-| Inventory Profiles Next | https://legacy.curseforge.com/minecraft/mc-mods/inventory-profiles-next | N? |
+| Inventory Profiles Next | https://legacy.curseforge.com/minecraft/mc-mods/inventory-profiles-next | Y |
 | Iron Jetpacks | https://legacy.curseforge.com/minecraft/mc-mods/iron-jetpacks | N |
 | Item Filters | https://legacy.curseforge.com/minecraft/mc-mods/item-filters | N |
 | JAMD | https://legacy.curseforge.com/minecraft/mc-mods/jamd | N |
@@ -132,6 +135,8 @@
 | MrCrayfish's Furniture Mod | https://legacy.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod | N |
 | MrCrayfish's Gun Mod | https://legacy.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod | N |
 | Multi-Piston | https://legacy.curseforge.com/minecraft/mc-mods/multi-piston | N |
+| Mutant Monsters | https://legacy.curseforge.com/minecraft/mc-mods/mutant-monsters | N |
+| Mutant More | https://legacy.curseforge.com/minecraft/mc-mods/new-mutant-more | N |
 | mutil | https://legacy.curseforge.com/minecraft/mc-mods/mutil | N |
 | My Server is Compatible | https://legacy.curseforge.com/minecraft/mc-mods/my-server-is-compatible | Y |
 | NoMoWanderer | https://legacy.curseforge.com/minecraft/mc-mods/nomowanderer | N |
@@ -147,6 +152,7 @@
 | Polymorph | https://legacy.curseforge.com/minecraft/mc-mods/polymorph | N |
 | Powah! (Rearchitected) | https://legacy.curseforge.com/minecraft/mc-mods/powah-rearchitected | N |
 | ProjectE | https://legacy.curseforge.com/minecraft/mc-mods/projecte | N |
+| Puzzles Lib | https://legacy.curseforge.com/minecraft/mc-mods/puzzles-lib | N |
 | Quark | https://legacy.curseforge.com/minecraft/mc-mods/quark | N |
 | ReAuth | https://legacy.curseforge.com/minecraft/mc-mods/reauth | Y |
 | Reborn Storage | https://legacy.curseforge.com/minecraft/mc-mods/rebornstorage | N |
@@ -187,8 +193,8 @@
 | Time in a bottle standalone | https://legacy.curseforge.com/minecraft/mc-mods/time-in-a-bottle-standalone | N |
 | Titanium | https://legacy.curseforge.com/minecraft/mc-mods/titanium | N |
 | Trash Cans | https://legacy.curseforge.com/minecraft/mc-mods/trash-cans | N |
-| Undead Unleashed | https://legacy.curseforge.com/minecraft/mc-mods/undead-unleashed | N |
 | TrashSlot | https://legacy.curseforge.com/minecraft/mc-mods/trashslot | N |
+| Undead Unleashed | https://legacy.curseforge.com/minecraft/mc-mods/undead-unleashed | N |
 | Universal Grid | https://legacy.curseforge.com/minecraft/mc-mods/universal-grid | N |
 | Valhelsia Core | https://legacy.curseforge.com/minecraft/mc-mods/valhelsia-core | N |
 | Waystones | https://legacy.curseforge.com/minecraft/mc-mods/waystones | N |
