@@ -39,6 +39,7 @@
 | ChoiceTheorem's Overhauled Village | https://legacy.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village | N |
 | Cloth Config API | https://legacy.curseforge.com/minecraft/mc-mods/cloth-config | N | 
 | Comforts | https://legacy.curseforge.com/minecraft/mc-mods/comforts | N |
+| Common Capabilities | https://legacy.curseforge.com/minecraft/mc-mods/common-capabilities | N |
 | Configured | https://legacy.curseforge.com/minecraft/mc-mods/configured | N |
 | Connected Glass | https://legacy.curseforge.com/minecraft/mc-mods/connected-glass | N |
 | ConnectedTexturesMod | https://legacy.curseforge.com/minecraft/mc-mods/ctm | N |
@@ -56,6 +57,7 @@
 | Cucumber Library | https://legacy.curseforge.com/minecraft/mc-mods/cucumber | N |
 | Cupboard | https://legacy.curseforge.com/minecraft/mc-mods/cupboard | N |
 | Curios API | https://legacy.curseforge.com/minecraft/mc-mods/curios | N |
+| Cyclops Core | https://legacy.curseforge.com/minecraft/mc-mods/cyclops-core | N |
 | Dark Mode Everywhere | https://legacy.curseforge.com/minecraft/mc-mods/dark-mode-everywhere | Y |
 | DefaultSettings | https://legacy.curseforge.com/minecraft/mc-mods/defaultsettings | Y |
 | Domum Ornamentum | https://legacy.curseforge.com/minecraft/mc-mods/domum-ornamentum | N |
@@ -98,6 +100,7 @@
 | Handcrafted | https://legacy.curseforge.com/minecraft/mc-mods/handcrafted | N |
 | Harvest with ease | https://legacy.curseforge.com/minecraft/mc-mods/harvest-with-ease | N |
 | Health Overlay | https://legacy.curseforge.com/minecraft/mc-mods/health-overlay | Y |
+| Integrated Dynamics | https://legacy.curseforge.com/minecraft/mc-mods/integrated-dynamics | N |
 | Inventory Essentials | https://legacy.curseforge.com/minecraft/mc-mods/inventory-essentials | Y |
 | Inventory Profiles Next | https://legacy.curseforge.com/minecraft/mc-mods/inventory-profiles-next | Y |
 | Iron Jetpacks | https://legacy.curseforge.com/minecraft/mc-mods/iron-jetpacks | N |
