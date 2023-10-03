@@ -62,7 +62,6 @@
 | Eccentric Tome | https://legacy.curseforge.com/minecraft/mc-mods/eccentric-tome | N | 
 | EdivadLib | https://legacy.curseforge.com/minecraft/mc-mods/edivadlib | N |
 | Elytra Slot | https://legacy.curseforge.com/minecraft/mc-mods/elytra-slot | N |
-| EMI | https://legacy.curseforge.com/minecraft/mc-mods/emi | N |
 | Enchantment Descriptions | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions | Y |
 | Entity Collision FPS Fix | https://legacy.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix | Y |
 | Entity Culling | https://legacy.curseforge.com/minecraft/mc-mods/entityculling | Y |
